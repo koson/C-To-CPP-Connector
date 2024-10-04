@@ -82,3 +82,10 @@ void LED_OFF()
 }
 #endif
 ```
+
+### ตัวอย่างการใช้งาน
+
+Clone repo นี้แล้ว ศึกษาตัวอย่างจาก project 
+
+build, flash และเชื่อมต่อ LED เข้ากับขา 16 (กำหนดในไฟล์ led_c_connector.cpp)
+
