@@ -1,0 +1,16 @@
+dependencies:
+  LED:
+    component_hash: d95a72b0035fb8cedaa973b98c4efab8d4dc51a097fac5976f35438ca96eecd1
+    source:
+      git: https://github.com/koson/LED_Test.git
+      path: components/LED
+      type: git
+    version: 838c47debbba86b33b24f9ab9ec71d2c00a4bf48
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.3.0
+manifest_hash: 00e610e283ab5e97dc104b4059af4ff797a70ead42f3d5c28fbd2888bf0d7b1b
+target: esp32
+version: 1.0.0
