@@ -6,11 +6,18 @@ dependencies:
       path: components/LED
       type: git
     version: 838c47debbba86b33b24f9ab9ec71d2c00a4bf48
+  SEVENSEGMENT:
+    component_hash: 90bb5b4831270614382c475599986cd1a88d63db97ccc9706c4127400926549f
+    source:
+      git: https://github.com/koson/sevenseg_component.git
+      path: components/SevenSegment
+      type: git
+    version: 57dca1419ad633cefb7d1f9ef2871cc222f5c3ed
   idf:
     component_hash: null
     source:
       type: idf
     version: 5.3.0
-manifest_hash: 00e610e283ab5e97dc104b4059af4ff797a70ead42f3d5c28fbd2888bf0d7b1b
+manifest_hash: c68b62d924fd5d2d0720ed203c4733dc283c3b08f262857052ee42cd0b03c7ec
 target: esp32
 version: 1.0.0
